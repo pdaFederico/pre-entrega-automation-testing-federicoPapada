@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions
+from selenium.webdriver.support import expected_conditions as EC
 import time
 
 URL = 'https://www.saucedemo.com/'
@@ -15,6 +15,10 @@ def get_driver():
     driver = webdriver.Chrome()
     driver.maximize_window()
     return driver
+
+def wait_time(driver):
+    wait = WebDriverWait(driver, 10)
+    wait.until(EC.visibility_of_element_located((By.CLASS_NAME, "shopping_cart_link")))
 
 
 def login_test(driver):
