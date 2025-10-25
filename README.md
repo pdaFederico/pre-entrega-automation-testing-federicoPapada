@@ -2,7 +2,7 @@
 **<div align="center">QA AUTOMATION TALENTO TECH - PRE ENTREGA PROYECTO</div>**
 
 
-## Descripción 📑
+## Descripción ℹ️
   Este repositorio contiene tests automatizados realizados como practica dentro del programa QA AUTOMATION brindado por Talento Tech. 
   El objetivo es poner en practica lo aprendido hasta la clase 8 y automatizar casos de pruebas funcionales del sitio [www.saucedemo.com ](url)
 
@@ -13,7 +13,7 @@
    + Selenium WebDriver para ejecutar pruebas en navegadores<br>
    + Git y Github para control de versiones
 
-## Instalación 🧑‍💻
+## Instalación 👨‍💻
 
 1. Visual Studio Code
 
@@ -43,7 +43,7 @@
    + Descomprimir el archivo descargado y copiar su contenido en la carpeta donde se alojaran los scripts.
    + Instalar WebDriver Manager desde una terminal, con el comando: `pip install webdriver-manager`
 
-  ## Ejecución de pruebas y emisión de reportes 🗒️
+  ## Ejecución de pruebas y emisión de reportes 📑
    
    + Desde la terminal integrada de VSCODE y estando en la carpeta raiz del proyecto ejecutar `pytest -s -v` para correr los tests
    + Generar reportes de las pruebas emitidas ejecutando `pytest -v -s --html=reporte.html`
