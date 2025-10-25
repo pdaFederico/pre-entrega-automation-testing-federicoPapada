@@ -3,10 +3,12 @@
 
 
 ## Descripción ℹ️
+
   Este repositorio contiene tests automatizados realizados como practica dentro del programa QA AUTOMATION brindado por Talento Tech. 
   El objetivo es poner en practica lo aprendido hasta la clase 8 y automatizar casos de pruebas funcionales del sitio [www.saucedemo.com ](url)
 
 ## Tecnologías Utilizadas 💻
+
    
    + Python<br>  
    + Pytest para ejecutar pruebas automatizadas<br>  
@@ -14,6 +16,7 @@
    + Git y Github para control de versiones
 
 ## Instalación 👨‍💻
+
 
 1. Visual Studio Code
 
@@ -44,7 +47,8 @@
    + Instalar WebDriver Manager desde una terminal, con el comando: `pip install webdriver-manager`
 
 ## Ejecución de pruebas y emisión de reportes 📑
-   
+
+
    + Desde la terminal integrada de VSCODE y estando en la carpeta raiz del proyecto ejecutar `pytest -s -v` para correr los tests
    + Generar reportes de las pruebas emitidas ejecutando `pytest -v -s --html=reporte.html`
      
