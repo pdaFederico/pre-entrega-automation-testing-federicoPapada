@@ -33,7 +33,7 @@
 
 3. Extensiones y dependencias
    
-   + Se recomienda crear un entorno virtual para el proyecto e instalar las depencencias allí. [VER MÁS INFORMACIÓN](https://micro.recursospython.com/recursos/como-crear-un-entorno-virtual-venv.html)
+   + Se recomienda trabajar e instalar las dependencias en un entorno virtual. <br>[VER MÁS INFORMACIÓN](https://micro.recursospython.com/recursos/como-crear-un-entorno-virtual-venv.html)
    + Desde el menú de extensiones de VSCODE (barra lateral izquierda) buscar la extension Python (desarrollado por Microsoft) y hacer clic en instalar
    + Abrir una terminal en el mismo VSCODE e instalar Pytest ejecutando `pip3 install pytest` y verificar su instalación con `pip3 show pytest`
    + Instalar dependencia que permite la generación de reportes ejecutando `pip install pytest-html`
