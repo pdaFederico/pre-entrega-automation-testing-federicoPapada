@@ -43,7 +43,7 @@
    + Descomprimir el archivo descargado y copiar su contenido en la carpeta donde se alojaran los scripts.
    + Instalar WebDriver Manager desde una terminal, con el comando: `pip install webdriver-manager`
 
-  ## Ejecución de pruebas y emisión de reportes 📑
+## Ejecución de pruebas y emisión de reportes 📑
    
    + Desde la terminal integrada de VSCODE y estando en la carpeta raiz del proyecto ejecutar `pytest -s -v` para correr los tests
    + Generar reportes de las pruebas emitidas ejecutando `pytest -v -s --html=reporte.html`
