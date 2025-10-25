@@ -15,7 +15,7 @@
    + Selenium WebDriver para ejecutar pruebas en navegadores<br>
    + Git y Github para control de versiones
 
-## Instalación 👨‍💻
+## Instalación y configuración de entorno de trabajo 👨‍💻
 
 
 1. Visual Studio Code
