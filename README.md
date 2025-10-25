@@ -1,6 +1,5 @@
 ![Automation Banner](https://github.com/user-attachments/assets/bf62e3ec-20fd-4cc0-b565-7a69c67060c0)<br><br>
-<div align="center">
-   #<h2>QA AUTOMATION TALENTO TECH - PRE ENTREGA PROYECTO</h2>
+<div align="center">#<h2>QA AUTOMATION TALENTO TECH - PRE ENTREGA PROYECTO</h2>
 </div>
 
 
