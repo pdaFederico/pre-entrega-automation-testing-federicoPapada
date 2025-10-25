@@ -1,7 +1,7 @@
 ![Automation Banner](https://github.com/user-attachments/assets/bf62e3ec-20fd-4cc0-b565-7a69c67060c0)<br><br>
 **<div align="center">QA AUTOMATION TALENTO TECH - PRE ENTREGA PROYECTO</div>**
 
-## Descripción
+📑## Descripción
   Este repositorio contiene tests automatizados realizados como practica dentro del programa QA AUTOMATION brindado por Talento Tech. 
   El objetivo es poner en practica lo aprendido hasta la clase 8 y automatizar casos de pruebas funcionales del sitio [www.saucedemo.com ](url)
 
@@ -10,6 +10,7 @@
    + Python<br>  
    + Pytest para ejecutar pruebas automatizadas<br>  
    + Selenium WebDriver para ejecutar pruebas en navegadores<br>
+   + Git y Github para control de versiones
 
 ## Instalación
 
