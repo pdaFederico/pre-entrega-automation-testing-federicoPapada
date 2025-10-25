@@ -4,7 +4,7 @@
 
 ## Descripción ℹ️
 
-  Este repositorio contiene tests automatizados realizados como practica dentro del programa QA AUTOMATION brindado por Talento Tech. 
+  Este repositorio contiene tests automatizados realizados como prácticas del curso *QA AUTOMATION*, en el marco del programa Talento Tech. 
   El objetivo es poner en practica lo aprendido hasta la clase 8 y automatizar casos de pruebas funcionales del sitio [www.saucedemo.com ](url)
 
 ## Tecnologías Utilizadas 💻
