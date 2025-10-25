@@ -2,6 +2,7 @@
 <div align="center">
 <h2>QA AUTOMATION TALENTO TECH - PRE ENTREGA PROYECTO</h2
 </div>
+
 ## Descripción
   Este repositorio contiene tests automatizados realizados como practica dentro del programa QA AUTOMATION brindado por Talento Tech. 
   El objetivo es poner en practica lo aprendido hasta la clase 8 y automatizar casos de pruebas funcionales del sitio [www.saucedemo.com ](url)
