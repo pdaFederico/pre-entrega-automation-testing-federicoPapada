@@ -1,8 +1,7 @@
 ![Automation Banner](https://github.com/user-attachments/assets/bf62e3ec-20fd-4cc0-b565-7a69c67060c0)<br><br>
 <div align="center">
-  <h1>QA AUTOMATION TALENTO TECH - PRE ENTREGA PROYECTO</h1>
+  <h1 style="border-bottom: none; margin-bottom: 0;">QA AUTOMATION TALENTO TECH - PRE ENTREGA PROYECTO</h1>
 </div>
-
 
 ## Descripción
   Este repositorio contiene tests automatizados realizados como practica dentro del programa QA AUTOMATION brindado por Talento Tech. 
