@@ -1,22 +1,25 @@
-![Automation Banner](https://github.com/user-attachments/assets/bf62e3ec-20fd-4cc0-b565-7a69c67060c0)<br><br>
+<img align="center" src="https://github.com/user-attachments/assets/cf337f3d-8a4b-4bc7-83e7-c9b053838a26" />
+
+
 **<div align="center">QA AUTOMATION TALENTO TECH - PRE ENTREGA PROYECTO</div>**
 
 
-## Descripción ℹ️
+<!-- Descripción -->
+## <img width="20" height="20" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/blue/info-circle.svg"> Descripción  
 
   Este repositorio contiene tests automatizados realizados como prácticas del curso *QA AUTOMATION*, en el marco del programa Talento Tech. 
   El objetivo es demostrar lo aprendido hasta la clase 8, automatizando casos de pruebas (funcionales y no funcionales) del sitio [www.saucedemo.com ](url)
 
-## Tecnologías Utilizadas 💻
+<!-- Herramientas -->    
+## <img width="20" height="20" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/blue/laptop.svg"> Tecnologías Utilizadas  
 
-   
-   + Python<br>  
-   + Pytest para ejecutar pruebas automatizadas<br>  
-   + Selenium WebDriver para ejecutar pruebas en navegadores<br>
-   + Git y Github para control de versiones
+  * Python<br>  
+  * Pytest para ejecutar pruebas automatizadas<br>  
+  * Selenium WebDriver para ejecutar pruebas en navegadores<br>
+  * Git y Github para control de versiones
 
-## Instalación y configuración de entorno de trabajo 👨‍💻
-
+<!-- Instalaciones -->  
+## <img width="20" height="20" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/blue/gear.svg"> Ambiente de Trabajo - Entorno y Configuración  
 
 1. Visual Studio Code
 
@@ -46,11 +49,11 @@
    + Descomprimir el archivo descargado y copiar su contenido en la carpeta donde se alojaran los scripts.
    + Instalar WebDriver Manager desde una terminal, con el comando: `pip install webdriver-manager`
 
-## Ejecución de pruebas y emisión de reportes 📑
+<!-- Reportes -->   
+## <img width="20" height="20" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/blue/journal-text.svg"> Ejecución de pruebas y reportes  
 
-
-   + Desde la terminal integrada de VSCODE y estando en la carpeta raiz del proyecto ejecutar `pytest -s -v` para correr los tests
-   + Generar reportes de las pruebas emitidas ejecutando `pytest -v -s --html=reporte.html`
+ * Desde la terminal integrada de VSCODE y estando en la carpeta raiz del proyecto ejecutar `pytest -s -v` para correr los tests
+ * Generar reportes de las pruebas emitidas ejecutando `pytest -v -s --html=reporte.html`
      
    
   
