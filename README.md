@@ -1,14 +1,15 @@
 <img align="center" src="https://github.com/user-attachments/assets/cf337f3d-8a4b-4bc7-83e7-c9b053838a26" />
 
 
-**<div align="center">QA AUTOMATION TALENTO TECH - PRE ENTREGA PROYECTO</div>**
+**<div align="center">QA AUTOMATION TALENTO TECH - PROYECTO FINAL</div>**
 
 
 <!-- Descripción -->
 ## <img width="20" height="20" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/blue/info-circle.svg"> Descripción  
 
   Este repositorio contiene tests automatizados realizados como prácticas del curso *QA AUTOMATION*, en el marco del programa Talento Tech. 
-  El objetivo es demostrar lo aprendido hasta la clase 8, automatizando casos de pruebas (funcionales y no funcionales) del sitio [www.saucedemo.com ](url)
+  El objetivo es automatizar casos de pruebas (funcionales y no funcionales) del sitio [www.saucedemo.com ](url) utilizando Selenium Web Driver e implementando POM.  
+  Se incluyen pruebas de API publicas utilizando la libreria Requests.
 
 <!-- Herramientas -->    
 ## <img width="20" height="20" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/blue/laptop.svg"> Tecnologías Utilizadas  
@@ -17,6 +18,7 @@
   * Pytest para ejecutar pruebas automatizadas<br>  
   * Selenium WebDriver para ejecutar pruebas en navegadores<br>
   * Git y Github para control de versiones
+  * Libreria Requests para pruebas de API
 
 <!-- Instalaciones -->  
 ## <img width="20" height="20" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/blue/gear.svg"> Ambiente de Trabajo - Entorno y Configuración  
@@ -40,6 +42,7 @@
    + Desde el menú de extensiones de VSCODE (barra lateral izquierda) buscar la extension Python (desarrollado por Microsoft) y hacer clic en instalar
    + Abrir una terminal en el mismo VSCODE e instalar Pytest ejecutando `pip3 install pytest` y verificar su instalación con `pip3 show pytest`
    + Instalar dependencia que permite la generación de reportes ejecutando `pip install pytest-html`
+   + Instalar Requests para poder correr pruebas de API. Con el comando `pip install requests`
 
 5. Selenium y WebDriver
 
